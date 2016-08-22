@@ -8,23 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		EEE174D71D6B19C100931D45 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE174D61D6B19C100931D45 /* main.m */; };
-		EEE174DA1D6B19C100931D45 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE174D91D6B19C100931D45 /* AppDelegate.m */; };
-		EEE174DD1D6B19C100931D45 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE174DC1D6B19C100931D45 /* ViewController.m */; };
-		EEE174E01D6B19C100931D45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE174DE1D6B19C100931D45 /* Main.storyboard */; };
-		EEE174E21D6B19C100931D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE174E11D6B19C100931D45 /* Assets.xcassets */; };
-		EEE174E51D6B19C100931D45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE174E31D6B19C100931D45 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EEE174D21D6B19C100931D45 /* CodingKata1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingKata1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEE174D61D6B19C100931D45 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EEE174D81D6B19C100931D45 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		EEE174D91D6B19C100931D45 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		EEE174DB1D6B19C100931D45 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		EEE174DC1D6B19C100931D45 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		EEE174DF1D6B19C100931D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EEE174E11D6B19C100931D45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EEE174E41D6B19C100931D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEE174E61D6B19C100931D45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,13 +46,6 @@
 		EEE174D41D6B19C100931D45 /* CodingKata1 */ = {
 			isa = PBXGroup;
 			children = (
-				EEE174D81D6B19C100931D45 /* AppDelegate.h */,
-				EEE174D91D6B19C100931D45 /* AppDelegate.m */,
-				EEE174DB1D6B19C100931D45 /* ViewController.h */,
-				EEE174DC1D6B19C100931D45 /* ViewController.m */,
-				EEE174DE1D6B19C100931D45 /* Main.storyboard */,
-				EEE174E11D6B19C100931D45 /* Assets.xcassets */,
-				EEE174E31D6B19C100931D45 /* LaunchScreen.storyboard */,
 				EEE174E61D6B19C100931D45 /* Info.plist */,
 				EEE174D51D6B19C100931D45 /* Supporting Files */,
 			);
@@ -137,9 +118,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEE174E51D6B19C100931D45 /* LaunchScreen.storyboard in Resources */,
-				EEE174E21D6B19C100931D45 /* Assets.xcassets in Resources */,
-				EEE174E01D6B19C100931D45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,32 +128,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEE174DD1D6B19C100931D45 /* ViewController.m in Sources */,
-				EEE174DA1D6B19C100931D45 /* AppDelegate.m in Sources */,
 				EEE174D71D6B19C100931D45 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		EEE174DE1D6B19C100931D45 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EEE174DF1D6B19C100931D45 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		EEE174E31D6B19C100931D45 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EEE174E41D6B19C100931D45 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		EEE174E71D6B19C100931D45 /* Debug */ = {
