@@ -7,12 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EE273EF91D7E87E900F57BF0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EE273EF81D7E87E900F57BF0 /* main.m */; };
+		EE273EF91D7E87E900F57BF0 /* LeapYear.m in Sources */ = {isa = PBXBuildFile; fileRef = EE273EF81D7E87E900F57BF0 /* LeapYear.m */; };
+		EE98D0841D81C82100D7F230 /* FoodSpoilage.m in Sources */ = {isa = PBXBuildFile; fileRef = EE98D0831D81C82100D7F230 /* FoodSpoilage.m */; };
+		EE98D0861D81C8AA00D7F230 /* Difference of Square of Sums and Sum of Squares.m in Sources */ = {isa = PBXBuildFile; fileRef = EE98D0851D81C8AA00D7F230 /* Difference of Square of Sums and Sum of Squares.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EE273EF41D7E87E900F57BF0 /* LeapYear.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeapYear.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE273EF81D7E87E900F57BF0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EE273EF41D7E87E900F57BF0 /* CodingKataW1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingKataW1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE273EF81D7E87E900F57BF0 /* LeapYear.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LeapYear.m; sourceTree = "<group>"; };
+		EE98D0831D81C82100D7F230 /* FoodSpoilage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodSpoilage.m; path = ../FoodSpoilage.m; sourceTree = "<group>"; };
+		EE98D0851D81C8AA00D7F230 /* Difference of Square of Sums and Sum of Squares.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Difference of Square of Sums and Sum of Squares.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,7 +33,7 @@
 		EE273EEB1D7E87E900F57BF0 = {
 			isa = PBXGroup;
 			children = (
-				EE273EF61D7E87E900F57BF0 /* LeapYear */,
+				EE273EF61D7E87E900F57BF0 /* CodingKataW1 */,
 				EE273EF51D7E87E900F57BF0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -37,23 +41,26 @@
 		EE273EF51D7E87E900F57BF0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EE273EF41D7E87E900F57BF0 /* LeapYear.app */,
+				EE273EF41D7E87E900F57BF0 /* CodingKataW1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EE273EF61D7E87E900F57BF0 /* LeapYear */ = {
+		EE273EF61D7E87E900F57BF0 /* CodingKataW1 */ = {
 			isa = PBXGroup;
 			children = (
 				EE273EF71D7E87E900F57BF0 /* Supporting Files */,
 			);
+			name = CodingKataW1;
 			path = LeapYear;
 			sourceTree = "<group>";
 		};
 		EE273EF71D7E87E900F57BF0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EE273EF81D7E87E900F57BF0 /* main.m */,
+				EE98D0831D81C82100D7F230 /* FoodSpoilage.m */,
+				EE273EF81D7E87E900F57BF0 /* LeapYear.m */,
+				EE98D0851D81C8AA00D7F230 /* Difference of Square of Sums and Sum of Squares.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -61,9 +68,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EE273EF31D7E87E900F57BF0 /* LeapYear */ = {
+		EE273EF31D7E87E900F57BF0 /* CodingKataW1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EE273F0E1D7E87E900F57BF0 /* Build configuration list for PBXNativeTarget "LeapYear" */;
+			buildConfigurationList = EE273F0E1D7E87E900F57BF0 /* Build configuration list for PBXNativeTarget "CodingKataW1" */;
 			buildPhases = (
 				EE273EF01D7E87E900F57BF0 /* Sources */,
 				EE273EF11D7E87E900F57BF0 /* Frameworks */,
@@ -73,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = LeapYear;
+			name = CodingKataW1;
 			productName = LeapYear;
-			productReference = EE273EF41D7E87E900F57BF0 /* LeapYear.app */;
+			productReference = EE273EF41D7E87E900F57BF0 /* CodingKataW1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -92,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EE273EEF1D7E87E900F57BF0 /* Build configuration list for PBXProject "LeapYear" */;
+			buildConfigurationList = EE273EEF1D7E87E900F57BF0 /* Build configuration list for PBXProject "CodingKataW1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -105,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EE273EF31D7E87E900F57BF0 /* LeapYear */,
+				EE273EF31D7E87E900F57BF0 /* CodingKataW1 */,
 			);
 		};
 /* End PBXProject section */
@@ -125,7 +132,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE273EF91D7E87E900F57BF0 /* main.m in Sources */,
+				EE273EF91D7E87E900F57BF0 /* LeapYear.m in Sources */,
+				EE98D0841D81C82100D7F230 /* FoodSpoilage.m in Sources */,
+				EE98D0861D81C8AA00D7F230 /* Difference of Square of Sums and Sum of Squares.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,7 +248,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EE273EEF1D7E87E900F57BF0 /* Build configuration list for PBXProject "LeapYear" */ = {
+		EE273EEF1D7E87E900F57BF0 /* Build configuration list for PBXProject "CodingKataW1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE273F0C1D7E87E900F57BF0 /* Debug */,
@@ -248,13 +257,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EE273F0E1D7E87E900F57BF0 /* Build configuration list for PBXNativeTarget "LeapYear" */ = {
+		EE273F0E1D7E87E900F57BF0 /* Build configuration list for PBXNativeTarget "CodingKataW1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE273F0F1D7E87E900F57BF0 /* Debug */,
 				EE273F101D7E87E900F57BF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

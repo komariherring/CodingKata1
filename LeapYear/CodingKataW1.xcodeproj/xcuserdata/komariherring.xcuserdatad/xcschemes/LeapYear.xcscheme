@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EE273EF31D7E87E900F57BF0"
-               BuildableName = "LeapYear.app"
-               BlueprintName = "LeapYear"
-               ReferencedContainer = "container:LeapYear.xcodeproj">
+               BuildableName = "CodingKataW1.app"
+               BlueprintName = "CodingKataW1"
+               ReferencedContainer = "container:CodingKataW1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE273EF31D7E87E900F57BF0"
-            BuildableName = "LeapYear.app"
-            BlueprintName = "LeapYear"
-            ReferencedContainer = "container:LeapYear.xcodeproj">
+            BuildableName = "CodingKataW1.app"
+            BlueprintName = "CodingKataW1"
+            ReferencedContainer = "container:CodingKataW1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE273EF31D7E87E900F57BF0"
-            BuildableName = "LeapYear.app"
-            BlueprintName = "LeapYear"
-            ReferencedContainer = "container:LeapYear.xcodeproj">
+            BuildableName = "CodingKataW1.app"
+            BlueprintName = "CodingKataW1"
+            ReferencedContainer = "container:CodingKataW1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE273EF31D7E87E900F57BF0"
-            BuildableName = "LeapYear.app"
-            BlueprintName = "LeapYear"
-            ReferencedContainer = "container:LeapYear.xcodeproj">
+            BuildableName = "CodingKataW1.app"
+            BlueprintName = "CodingKataW1"
+            ReferencedContainer = "container:CodingKataW1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

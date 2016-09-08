@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "11D23966119D94B3EAB23384309B949F925AB978" : 9223372036854775807,
+    "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D428BF6F-80F5-43A4-96B3-2D041A1CCBDC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "11D23966119D94B3EAB23384309B949F925AB978" : "CodingKata1\/LeapYear\/LeapYear\/",
+    "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6" : "CodingKata1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeapYear",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeapYear\/LeapYear.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/komariherring\/LeapYear.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11D23966119D94B3EAB23384309B949F925AB978"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/komariherring\/CodingKata1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6"
+    }
+  ]
+}
