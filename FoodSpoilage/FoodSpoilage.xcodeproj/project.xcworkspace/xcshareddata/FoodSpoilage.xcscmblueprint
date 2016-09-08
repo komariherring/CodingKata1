@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E959A1BDECD07C6E36A56A487A7B3BF826AF47A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6" : 9223372036854775807,
+    "E959A1BDECD07C6E36A56A487A7B3BF826AF47A5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0FE763BA-7A1F-48E2-88E4-41EA3F33E84F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6" : "",
+    "E959A1BDECD07C6E36A56A487A7B3BF826AF47A5" : "FoodSpoilage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FoodSpoilage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FoodSpoilage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/komariherring\/FoodSpoilage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E959A1BDECD07C6E36A56A487A7B3BF826AF47A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/komariherring\/CodingKata1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5D5B7FB9683783A42BD8BBD4DC44688236D10D6"
+    }
+  ]
+}
